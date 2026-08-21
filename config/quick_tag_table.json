@@ -156,20 +156,22 @@
     [
       "Major C",
       [
-        ["cz", "cozy glow"],
+        ["ks, kso", "king sombra"],
+        ["lt", "lord tirek"],
         ["qc", "queen chrysalis"],
-        ["sd", "sonata dusk"],
-        ["ada", "adagio dazzle"],
-        ["ari", "aria blaze"],
-        ["kso", "king sombra"],
+        ["abz", "aria blaze"],
+        ["adz", "adagio dazzle"],
+        ["czg", "cozy glow"],
         ["nmm", "nightmare moon"],
-        ["tps", "tempest shadow"]
+        ["snd", "sonata dusk"],
+        ["tps, tsh", "tempest shadow"]
       ]
     ],
     [
       "Alts",
       [
-        ["pt", "princess twilight"],
+        ["pt, pts", "princess twilight"],
+        ["st, sctw", "sci-twi"],
         ["ut", "unicorn twilight"],
         ["fzb", "fizzlepop berrytwist"],
         ["pdp", "pinkamena diane pie"],
@@ -178,7 +180,6 @@
         ["s1l", "s1 luna"],
         ["s5s", "s5 starlight"],
         ["ptia", "principal celestia"],
-        ["sctw", "sci-twi"],
         ["spdg", "spike the regular dog"]
       ]
     ],
@@ -197,66 +198,78 @@
     [
       "Minor",
       [
-        ["bb", "bon bon"],
+        ["as, amt", "amethyst star"],
+        ["bb, bn", "braeburn"],
+        ["bf", "blossomforth"],
         ["bm", "big macintosh"],
-        ["bn", "braeburn"],
         ["bp", "berry punch"],
         ["bs", "babs seed"],
+        ["cb", "cherry berry"],
         ["cc", "cloudchaser"],
+        ["ck", "cloud kicker"],
+        ["cl, chl", "cheerilee"],
         ["ct", "carrot top"],
         ["db", "daybreaker"],
+        ["dd, ddo", "daring do"],
         ["dh", "derpy hooves"],
-        ["dj", "vinyl scratch"]
+        ["dj", "vinyl scratch"],
+        ["dt", "diamond tiara"],
+        ["dw", "doctor whooves"]
       ]
     ],
     [
       "Minor B",
       [
-        ["dt", "diamond tiara"],
-        ["dw", "doctor whooves"],
+        ["dy, fw", "daisy"],
+        ["ff", "fleetfoot"],
         ["fl", "flitter"],
+        ["fp", "fancypants"],
         ["gd", "gilda"],
         ["gs", "granny smith"],
+        ["hw", "ms. harshwhinny"],
+        ["jm", "juniper montage"],
+        ["kf", "kerfuffle"],
         ["ld", "lightning dust"],
         ["lh", "lyra heartstrings"],
+        ["lp, lmp", "limestone pie"],
         ["lv", "lily valley"],
         ["mm", "mayor mare"],
-        ["pf", "photo finish"]
+        ["pf", "photo finish"],
+        ["rg", "royal guard"],
+        ["ri", "raven"]
       ]
     ],
     [
       "Minor C",
       [
-        ["rg", "royal guard"],
+        ["rl, ros", "roseluck"],
+        ["rs", "rainbowshine"],
         ["sa", "shining armor"],
         ["sf", "spitfire"],
         ["sn", "soarin'"],
         ["ss", "silver spoon"],
         ["tl", "thunderlane"],
+        ["vv", "vignette valencia"],
+        ["wf, wfb", "wallflower blush"],
         ["za", "zecora"],
         ["abn", "angel bunny"],
-        ["amt", "amethyst star"],
-        ["aub", "autumn blaze"]
+        ["aub", "autumn blaze"],
+        ["bbi", "bulk biceps"],
+        ["bon", "bon bon"],
+        ["btn", "button mash"],
+        ["cdd", "cranky doodle donkey"],
+        ["cgt", "minuette"]
       ]
     ],
     [
       "Minor D",
       [
-        ["bbi", "bulk biceps"],
-        ["btn", "button mash"],
-        ["cgt", "minuette"],
-        ["chl", "cheerilee"],
         ["cra", "coloratura"],
         ["cuc", "cup cake"],
-        ["ddo", "daring do"],
         ["fdl", "fleur-de-lis"],
-        ["fse", "flash sentry"],
-        ["lmp", "limestone pie"]
-      ]
-    ],
-    [
-      "Minor E",
-      [
+        ["fls, fse", "flash sentry"],
+        ["gld", "gloriosa daisy"],
+        ["lmh", "lemon hearts"],
         ["lzt", "lemon zest"],
         ["mbp", "marble pie"],
         ["mdc", "moondancer"],
@@ -266,20 +279,26 @@
         ["opl", "opalescence"],
         ["pbb", "prince blueblood"],
         ["peb", "pear butter"],
-        ["pfh", "princess flurry heart"]
+        ["pfh", "princess flurry heart"],
+        ["pip", "pipsqueak"]
       ]
     ],
     [
-      "Minor F",
+      "Minor E",
       [
-        ["ros", "roseluck"],
-        ["sub", "sunburst"],
+        ["sbt", "sunburst"],
+        ["scb", "screwball"],
         ["sgc", "sugarcoat"],
-        ["ssw", "sour sweet"],
+        ["smd", "spring melody"],
+        ["sou", "sour sweet"],
+        ["srd", "sunshower raindrops"],
+        ["ssb", "star swirl the bearded"],
+        ["ssh", "shoeshine"],
+        ["ssw", "sea swirl"],
         ["sug", "sugar belle"],
-        ["trh", "tree hugger"],
+        ["thg, trh", "tree hugger"],
+        ["tws", "twinkleshine"],
         ["twv", "twilight velvet"],
-        ["wfb", "wallflower blush"],
         ["chee", "cheese sandwich"],
         ["owol", "owlowiscious"]
       ]
@@ -494,7 +513,7 @@
     [
       "Media",
       [
-        ["eg", "equestria girls"],
+        ["eg, eqg", "equestria girls"],
         ["ang", "my little pony: a new generation"],
         ["fim", "my little pony: friendship is magic"],
         ["g4m", "my little pony: the movie"],
